@@ -1,103 +1,85 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Shayan+%F0%9F%91%8B;BS+Computer+Science+Student;Aspiring+Data+Scientist+%F0%9F%93%8A;Python+%E2%80%A2+Pandas+%E2%80%A2+NumPy+%E2%80%A2+Matplotlib" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi 👋, I'm Shayan Afzal</h1>
+<h3 align="center">BS Computer Science Student | Aspiring Data Scientist | Python & ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shayan306afzal-blip&color=blueviolet&style=flat-square&label=Profile+Views" />
-  <a href="https://www.linkedin.com/in/shayan-afzal-494637290">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Python+%26+Data+Science+Projects;Exploring+Machine+Learning+%26+Analytics;Currently+Looking+for+an+Internship;Welcome+to+my+GitHub!" alt="Typing SVG" />
   </a>
-  <a href="https://instagram.com/sh__.ani">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShayanAfzal306&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" />
+  <a href="https://github.com/ShayanAfzal306?tab=followers">
+    <img src="https://img.shields.io/github/followers/ShayanAfzal306?label=Followers&style=flat&color=2E9EF7" alt="followers" />
   </a>
-  <img src="https://img.shields.io/badge/Status-Looking%20for%20Internship-2ea44f?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Looking%20for%20Internship-brightgreen?style=flat" />
 </p>
 
 ---
 
-### 👋 About Me
-
-- 🎓 BS Computer Science student at **University of Education, Lahore**
-- 📊 Diving into **data analytics**, clean data pipelines, and visualization
-- 🛠️ Currently building projects with **Python, Pandas, NumPy & Matplotlib**
-- 💼 Open to **internship opportunities** — let's connect!
+### 🚀 About Me
+- 🎓 BS Computer Science student at University Of Education
+- 📊 Aspiring Data Scientist, building Python & Data Science projects
+- 🔬 Currently exploring Machine Learning and Analytics
+- 💼 Open to internship opportunities — feel free to reach out!
 - 📍 Based in Lahore, Pakistan
-
-<details>
-<summary>🧭 <b>Click to see my current roadmap</b></summary>
-<br>
-
-- [x] Learn Python fundamentals & data structures
-- [x] Build first data project (POS system with Pandas/NumPy)
-- [ ] Learn SQL for real-world data querying
-- [ ] Complete a Power BI dashboard project
-- [ ] Contribute to an open-source repo
-- [ ] Land a data-related internship
-
-</details>
+- 🤝 Open to collaborating on data/ML projects
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811.svg?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-00758F.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,jupyter,powerbi,git,github,vscode" />
 </p>
 
 ---
 
-### 📌 Featured Project
+### 📌 Featured Projects
 
-<a href="https://github.com/shayan306afzal-blip/python-data-science-pos">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shayan306afzal-blip&repo=python-data-science-pos&theme=radical" />
-</a>
-
-> An in-memory Point of Sale (POS) system built in Python — using **Pandas** for inventory tracking, **NumPy** for fast transaction math, and **Matplotlib** for real-time sales visualization.
+| Project | Description |
+|---|---|
+| [Python Data Science POS](https://github.com/ShayanAfzal306/python-data-science-pos) | In-memory POS system using Pandas, NumPy & Matplotlib for inventory tracking and sales visualization |
+| [E-Commerce Sales Dashboard](https://github.com/ShayanAfzal306/E-Commerce-Sales-Dashboard) | Interactive dashboard analyzing revenue, profit, and customer trends |
+| [Ecommerce Data Pipeline](https://github.com/ShayanAfzal306/Ecommerce-Data_Pipeline) | End-to-end data cleaning and preprocessing pipeline using Pandas & NumPy |
+| [Automated Expense Tracker](https://github.com/ShayanAfzal306/Automated-Expense-Tracker) | Tracks spending patterns and visualizes monthly expenses |
+| [Fashion E-Commerce Dashboard](https://github.com/ShayanAfzal306/Fashion-E-Commerce-Performance-Dashboard) | Power BI dashboard on fashion e-commerce sales & customer behavior |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shayan306afzal-blip&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayan306afzal-blip&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShayanAfzal306&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShayanAfzal306&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shayan306afzal-blip&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShayanAfzal306&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shayan306afzal-blip&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-### 🌱 Currently Learning
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-Practicing-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/Power%20BI-Building%20Dashboards-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20Source-Exploring-blue?style=flat-square" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShayanAfzal306&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-### 🌐 Let's Connect
+### 🐍 Contribution Snake
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shayan-afzal-494637290">
+  <img src="https://raw.githubusercontent.com/ShayanAfzal306/ShayanAfzal306/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shayan-afzal-494637290" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/sh__.ani">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
 </p>
 
-<p align="center"><i>💡 Open to internship opportunities in Data Analytics / Software Development — feel free to reach out!</i></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=100&section=footer" />
+</p>
